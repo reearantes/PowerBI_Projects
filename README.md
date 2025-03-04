@@ -13,7 +13,13 @@ The dashboard Covers:
 
 Full tutorial : https://www.youtube.com/watch?v=ZSrVOyKAC4Y&feature=youtu.be
 
+
+
 # ** 2º  Dashboard Financeiro**
+
+![Descrição da Imagem](https://github.com/reearantes/PowerBI_Projects/raw/main/01_VisaoGeral.jpg)
+
+![Descrição da Imagem](https://github.com/reearantes/PowerBI_Projects/blob/main/02_Fluxo_Caixa.jpg)
 
 ## **Visão Geral**
 
