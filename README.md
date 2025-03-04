@@ -1,21 +1,29 @@
 # PowerBI_Projects
-All my Business Intellingence projects using Power BI
+All my Business Intellingence projects using Power BI. 
 
-# 1º Case Spotify Description
+Aqui você encontra meu portifólio de projetos de Business Intelligence (BI)
+
+
+#  Case Spotify Description
+
+
+![Descrição da Imagem](https://github.com/reearantes/PowerBI_Projects/blob/main/case_sf.png)
+
+My template on Figma Here:
+https://www.figma.com/community/file/1301631027349874475
 
 The dashboard Covers:
-💠Enriched dataset with ChatGPT & Python
-💠Glassmorphism Background
-💠Power BI Building
-💠HTML Cover Art
-💠DENEB Visuals
-💠PBI Format
+ - 💠Enriched dataset with ChatGPT & Python - Conjunto de dados enriquecido com ChatGPT & Python.
+ - 💠Glassmorphism Background - Antecedentes de Glomorfismo.
+ - 💠Power BI Building - Construção do Power BI.
+ - 💠Figma Cover Art - Background no figma.
+ - 💠DENEB Visuals - Visual costumizado.
+ - 💠PBI Format.
 
 Full tutorial : https://www.youtube.com/watch?v=ZSrVOyKAC4Y&feature=youtu.be
 
 
-
-# ** 2º  Dashboard Financeiro**
+# **  Dashboard Financeiro**
 
 ![Descrição da Imagem](https://github.com/reearantes/PowerBI_Projects/raw/main/01_VisaoGeral.jpg)
 
